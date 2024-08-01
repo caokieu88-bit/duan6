@@ -1,0 +1,91 @@
+.menu {
+  text-align:right;
+  width: 100%;
+  max-width: 1100px;
+  height: 60px;
+  background-color: blue;
+
+  margin: 10px auto;
+  /* position: fixed; */
+}
+.menu a{
+  text-align: center;
+  display: inline-block;
+  color: white;
+  font-weight: bolder;
+  width: 70px;
+  padding: 16px;
+  /* background-color: white; */
+  text-decoration: none;
+  
+}
+.logo{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  padding: 20px;
+  font-size: 40px;
+  text-decoration: none;
+  
+}
+
+.main {
+  width: 100%;
+  max-width: 1100px;
+  height: 500px;
+  background-color: blueviolet;
+  margin: 00px auto 0;
+}
+.main a{
+  display: inline-block;
+  width: 100%;
+  max-width: 530px;
+  height: 230px;
+  background-color: white;
+margin: 8px;
+}
+.body {
+  width: 100%;
+  max-width: 1100px;
+  max-height: fit-content;
+  background-color: aqua;
+  margin: 20px auto;
+  box-sizing: border-box;
+}
+.thanbai {
+  display: inline-block;
+  width: 100%;
+  max-width: 750px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin: -490px 0 0 10px;
+}
+.boxphai {
+  width: 300px;
+  height: 490px;
+  background-color: brown;
+  margin: 5px 0 0 auto;
+}
+.box1 {
+  display: inline-block;
+  width: 280px;
+  height: 100px;
+  background-color: blue;
+  margin: 9px;
+}
+.footer {
+  width: 100%;
+  max-width: 1100px;
+  height: 200px;
+  background-color: red;
+  margin: 0 auto;
+}
+.boxchan{
+  display: inline-block;
+  width: 100%;
+  max-width: 250px;
+  height: 180px;
+  background-color: white;
+  margin: 10px;
+}
